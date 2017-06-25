@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+*.opendb
+*.db
+/EnumProcessModulesSample/ConsoleApplication5/Debug
+/EnumProcessModulesSample/ConsoleApplication5/MyLibrary/Debug
